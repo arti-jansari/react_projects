@@ -1,0 +1,24 @@
+.calc {
+    width: 400px;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#input {
+    width: 100%;
+padding: 10px 20px;
+ }
+
+ .button {
+    width: 25%;
+    padding: 20px;
+   
+    border:1px solid white;
+    background-color: black;
+    color: white;
+ }
+ .button:hover {
+    color: aliceblue;
+    background-color:grey;
+ }
