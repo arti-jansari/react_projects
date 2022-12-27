@@ -4,16 +4,20 @@
     margin-top: 60px;
     display: flex;
     flex-wrap: wrap;
+    border: 4px solid;
 }
 #input {
     width: 100%;
-padding: 10px 20px;
+padding: 12px 25px;
+font-size: larger;
+border: 3px solid;
+font-weight: 600;
  }
 
  .button {
     width: 25%;
-    padding: 20px;
-   
+    padding: 25px;
+   font-size: larger;
     border:1px solid white;
     background-color: black;
     color: white;
