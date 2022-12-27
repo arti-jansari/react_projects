@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './Calculator'
-// import App from './Todolist'
+import App from './Todolist'
 // import App from './App';
-import App from './Card_fetchapi';
+// import App from './Card_fetchapi';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
